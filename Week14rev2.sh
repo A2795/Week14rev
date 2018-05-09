@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Week14
 # Mussie Asrat
 
