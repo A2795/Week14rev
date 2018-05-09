@@ -3,7 +3,6 @@
 # Week14
 # Mussie Asrat
 
-
 # To compile in C, we must search first if the C compiler executable exists. In my case i searched if the gcc GNU C Compiler is installed. $ gcc -v If gcc is not installed, do the following; $ sudo apt-get install gcc
 
 # To compile all C++ programs as well as java, you will need to install the build-essentials using the following commands;
